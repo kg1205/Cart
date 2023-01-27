@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17812" started-at="2022-10-17T12:07:21 IST" finished-at="2022-10-17T12:07:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17812" started-at="2022-10-17T12:07:21 IST" finished-at="2022-10-17T12:07:39 IST">
+      <class name="com.durgasoft.testNG.Practice_link">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.durgasoft.testNG.Practice_link@4eb7f003]" name="beforeTest" is-config="true" duration-ms="14535" started-at="2022-10-17T12:07:21 IST" finished-at="2022-10-17T12:07:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Practice()[pri:0, instance:com.durgasoft.testNG.Practice_link@4eb7f003]" name="Practice" duration-ms="3152" started-at="2022-10-17T12:07:36 IST" finished-at="2022-10-17T12:07:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Practice -->
+      </class> <!-- com.durgasoft.testNG.Practice_link -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
