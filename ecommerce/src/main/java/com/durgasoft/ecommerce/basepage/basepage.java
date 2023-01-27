@@ -10,6 +10,7 @@ public class basepage {
 		System.setProperty("webdriver.chrome.driver", "D:\\library\\chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.get(url);
+		System.out.println(url);
 		driver.manage().window().maximize();
 	}
 }
